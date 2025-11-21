@@ -60,7 +60,7 @@ cp env.example .env.local
 Open `.env.local` and add your OpenRouter API key:
 ```env
 OPENROUTER_API_KEY=sk-or-v1-your-actual-key-here
-OPENROUTER_MODEL=google/gemini-2.0-flash-lite-preview-02-05:free
+OPENROUTER_MODEL=alibaba/tongyi-deepresearch-30b-a3b:free
 ```
 
 ### 4. Setup Local Database (D1)
