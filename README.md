@@ -2,8 +2,6 @@
 
 PunditTracker is a modern web application designed to track, verify, and grade predictions made by public figures (pundits) in Finance, Sports, and Tech. It leverages AI to assist in verifying outcomes and runs on the edge using Cloudflare Pages and D1.
 
-![PunditTracker Home](https://placehold.co/800x400/1a1a1a/ffffff/png?text=PunditTracker+Preview)
-
 ## 🚀 Features
 
 - **Pundit Profiles**: Comprehensive profiles displaying bio, category, and historical accuracy.
