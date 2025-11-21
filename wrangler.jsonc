@@ -1,0 +1,22 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "pundit-tracker",
+	"compatibility_date": "2025-02-14",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"pages_build_output_dir": ".vercel/output/static",
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "pundit-tracker-db",
+			"database_id": "63a7461f-c51b-4b1d-940c-c8f841c3141f"
+		},
+		{
+			"binding": "pundit_tracker_db",
+			"database_name": "pundit-tracker-db",
+			"database_id": "63a7461f-c51b-4b1d-940c-c8f841c3141f",
+			"remote": true
+		}
+	]
+}
